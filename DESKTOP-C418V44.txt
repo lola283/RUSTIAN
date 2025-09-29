@@ -1,1 +1,4 @@
-PC Name: DESKTOP-C418V44
+Command: 
+Time: 1759144008 (Unix timestamp)
+Output: 
+
