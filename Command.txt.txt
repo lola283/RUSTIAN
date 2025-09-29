@@ -1,0 +1,7 @@
+whoami
+ls
+dir
+tasklist
+ipconfig /all
+services
+process
