@@ -1,1 +1,5 @@
-tasklist dir ls ipconfig netstat
+tasklist 
+dir 
+ls 
+ipconfig 
+netstat
