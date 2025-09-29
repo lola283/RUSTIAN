@@ -1,7 +1,1 @@
-whoami
-ls
-dir
-tasklist
-ipconfig /all
-services
-process
+whoami,ls,dir,tasklist,ipconfig,services,process
