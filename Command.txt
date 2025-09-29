@@ -1,0 +1,5 @@
+tasklist
+dir
+ls 
+ipconfig
+netstat
