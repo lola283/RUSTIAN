@@ -1,1 +1,1 @@
-whoami,ls,dir,tasklist,ipconfig,services,process
+tasklist
