@@ -1,5 +1,5 @@
 Command: ipconfig
-Time: 2025-09-30 14:07:09 +05:00
+Time: 2025-09-30 17:13:14 +05:00
 Output: 
 Windows IP Configuration
 
@@ -31,8 +31,8 @@ Wireless LAN adapter WiFi 3:
 
    Connection-specific DNS Suffix  . : 
    Link-local IPv6 Address . . . . . : fe80::6475:850b:fc32:67f4%22
-   IPv4 Address. . . . . . . . . . . : 10.12.0.104
-   Subnet Mask . . . . . . . . . . . : 255.255.0.0
-   Default Gateway . . . . . . . . . : 10.12.0.1
+   IPv4 Address. . . . . . . . . . . : 192.168.214.197
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.214.120
 
 
