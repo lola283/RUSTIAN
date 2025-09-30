@@ -1,0 +1,360 @@
+Command: tasklist
+Time: 1759211902 (Unix timestamp)
+Output: 
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0        136 K
+Secure System                   72 Services                   0     22,676 K
+Registry                       132 Services                   0     63,516 K
+smss.exe                       460 Services                   0        300 K
+csrss.exe                      604 Services                   0      2,448 K
+wininit.exe                    700 Services                   0      1,112 K
+services.exe                   832 Services                   0      7,460 K
+LsaIso.exe                     856 Services                   0      1,304 K
+lsass.exe                      864 Services                   0     12,836 K
+svchost.exe                    996 Services                   0     21,112 K
+fontdrvhost.exe               1020 Services                   0      1,536 K
+svchost.exe                    880 Services                   0     16,016 K
+svchost.exe                   1052 Services                   0      3,888 K
+WUDFHost.exe                  1100 Services                   0      4,808 K
+svchost.exe                   1188 Services                   0      1,284 K
+svchost.exe                   1228 Services                   0      5,468 K
+svchost.exe                   1240 Services                   0      4,056 K
+IntelCpHDCPSvc.exe            1332 Services                   0      1,492 K
+svchost.exe                   1340 Services                   0      2,212 K
+svchost.exe                   1376 Services                   0      3,612 K
+svchost.exe                   1392 Services                   0     10,132 K
+IntelCpHeciSvc.exe            1524 Services                   0      1,876 K
+svchost.exe                   1560 Services                   0      4,368 K
+svchost.exe                   1660 Services                   0      8,488 K
+svchost.exe                   1692 Services                   0      3,408 K
+igfxCUIService.exe            1780 Services                   0      2,388 K
+svchost.exe                   1900 Services                   0      3,988 K
+SynTPEnhService.exe           2000 Services                   0      2,396 K
+svchost.exe                   1412 Services                   0      8,392 K
+WUDFHost.exe                  1776 Services                   0      9,248 K
+svchost.exe                   1312 Services                   0      5,220 K
+svchost.exe                   2076 Services                   0      8,656 K
+svchost.exe                   2160 Services                   0      5,980 K
+svchost.exe                   2168 Services                   0      1,512 K
+svchost.exe                   2188 Services                   0      2,212 K
+svchost.exe                   2280 Services                   0      5,672 K
+svchost.exe                   2316 Services                   0      4,880 K
+svchost.exe                   2340 Services                   0      4,216 K
+svchost.exe                   2348 Services                   0     11,848 K
+DiagsCap.exe                  2360 Services                   0      3,736 K
+Memory Compression            2372 Services                   0    102,164 K
+AppHelperCap.exe              2404 Services                   0      8,728 K
+NetworkCap.exe                2440 Services                   0      3,428 K
+TouchpointAnalyticsClient     2448 Services                   0     29,468 K
+SysInfoCap.exe                2476 Services                   0     10,764 K
+svchost.exe                   2600 Services                   0      6,988 K
+svchost.exe                   2776 Services                   0      8,736 K
+svchost.exe                   2800 Services                   0     16,328 K
+WUDFHost.exe                  2820 Services                   0      2,404 K
+svchost.exe                   2888 Services                   0      1,592 K
+svchost.exe                   3180 Services                   0      3,748 K
+svchost.exe                   3208 Services                   0      5,048 K
+svchost.exe                   3324 Services                   0      1,668 K
+svchost.exe                   3332 Services                   0      5,396 K
+svchost.exe                   3536 Services                   0      9,456 K
+svchost.exe                   3556 Services                   0      8,188 K
+HotKeyServiceUWP.exe          3804 Services                   0      8,844 K
+unsecapp.exe                  3816 Services                   0      2,900 K
+svchost.exe                   4040 Services                   0      5,012 K
+WmiPrvSE.exe                  4056 Services                   0      7,708 K
+svchost.exe                   3204 Services                   0      8,020 K
+svchost.exe                   3400 Services                   0      5,116 K
+svchost.exe                   4180 Services                   0      3,740 K
+svchost.exe                   4360 Services                   0      1,300 K
+svchost.exe                   4552 Services                   0     10,348 K
+svchost.exe                   4648 Services                   0      8,584 K
+spoolsv.exe                   4720 Services                   0      4,428 K
+svchost.exe                   4760 Services                   0     11,588 K
+svchost.exe                   4848 Services                   0      2,724 K
+FMService64.exe               3032 Services                   0      2,324 K
+CxUtilSvc.exe                 2896 Services                   0      1,680 K
+ibtsiva.exe                   5112 Services                   0      2,128 K
+HidMonitorSvc.exe             4140 Services                   0      1,736 K
+wslservice.exe                2956 Services                   0      6,040 K
+svchost.exe                   1272 Services                   0      2,404 K
+OfficeClickToRun.exe          5124 Services                   0     21,908 K
+svchost.exe                   5132 Services                   0      3,204 K
+ThunderboltService.exe        5140 Services                   0      4,896 K
+WMIRegistrationService.ex     5160 Services                   0      1,748 K
+RtkAudUService64.exe          5168 Services                   0      4,752 K
+MpDefenderCoreService.exe     5176 Services                   0     10,608 K
+svchost.exe                   5184 Services                   0     33,176 K
+XtuService.exe                5216 Services                   0     15,128 K
+svchost.exe                   5228 Services                   0      3,072 K
+svchost.exe                   5236 Services                   0      1,568 K
+servicehost.exe               5244 Services                   0     25,980 K
+LMS.exe                       5252 Services                   0      8,100 K
+svchost.exe                   5260 Services                   0     13,608 K
+svchost.exe                   5268 Services                   0     39,252 K
+svchost.exe                   5276 Services                   0      1,380 K
+sqlwriter.exe                 5284 Services                   0      1,552 K
+OneApp.IGCC.WinService.ex     5304 Services                   0      8,884 K
+MsMpEng.exe                   5312 Services                   0    337,972 K
+jhi_service.exe               5360 Services                   0      1,244 K
+pg_ctl.exe                    5444 Services                   0      1,276 K
+SearchIndexer.exe             5508 Services                   0     38,932 K
+esif_uf.exe                   5732 Services                   0      1,740 K
+svchost.exe                   6080 Services                   0      1,452 K
+svchost.exe                   6296 Services                   0      1,860 K
+postgres.exe                  6680 Services                   0      2,052 K
+conhost.exe                   6752 Services                   0      2,176 K
+LanWlanWwanSwitchingServi     6964 Services                   0      6,032 K
+svchost.exe                   6068 Services                   0      4,936 K
+svchost.exe                   6636 Services                   0      6,684 K
+postgres.exe                  6216 Services                   0      2,028 K
+postgres.exe                  7072 Services                   0      2,000 K
+postgres.exe                  4892 Services                   0      1,940 K
+postgres.exe                  7476 Services                   0      1,868 K
+postgres.exe                  7488 Services                   0      2,572 K
+postgres.exe                  7496 Services                   0      2,456 K
+svchost.exe                   7820 Services                   0     11,276 K
+svchost.exe                   8184 Services                   0      9,784 K
+dllhost.exe                   8508 Services                   0      6,472 K
+svchost.exe                    976 Services                   0     15,532 K
+svchost.exe                   8468 Services                   0      1,892 K
+svchost.exe                   9444 Services                   0      8,336 K
+svchost.exe                  10052 Services                   0      3,928 K
+svchost.exe                  10228 Services                   0      4,176 K
+AggregatorHost.exe            1656 Services                   0      5,044 K
+svchost.exe                  11076 Services                   0     19,048 K
+svchost.exe                  11896 Services                   0      9,772 K
+SecurityHealthService.exe    10012 Services                   0     15,188 K
+svchost.exe                  12996 Services                   0      4,292 K
+svchost.exe                  12936 Services                   0      5,012 K
+svchost.exe                  14036 Services                   0      6,220 K
+svchost.exe                   5976 Services                   0      6,708 K
+svchost.exe                  10144 Services                   0      3,372 K
+svchost.exe                   9500 Services                   0      5,964 K
+svchost.exe                   7508 Services                   0      4,128 K
+csrss.exe                    14048 Console                    4      4,068 K
+winlogon.exe                  2508 Console                    4      5,624 K
+fontdrvhost.exe               6488 Console                    4      8,188 K
+dwm.exe                       8224 Console                    4     57,132 K
+uihost.exe                    8504 Console                    4     16,484 K
+SynTPEnh.exe                  3524 Console                    4      7,060 K
+sihost.exe                    5368 Console                    4     21,552 K
+svchost.exe                   1148 Console                    4     14,880 K
+svchost.exe                   7940 Console                    4     25,952 K
+igfxEM.exe                   10020 Console                    4      5,128 K
+taskhostw.exe                11200 Console                    4     10,980 K
+MicTray64.exe                 8376 Console                    4      4,584 K
+ctfmon.exe                    8084 Console                    4     12,700 K
+explorer.exe                 12592 Console                    4    182,312 K
+svchost.exe                   7696 Services                   0      3,076 K
+svchost.exe                  12032 Console                    4     18,208 K
+RuntimeBroker.exe             7300 Console                    4     36,176 K
+StartMenuExperienceHost.e     7680 Console                    4     45,764 K
+RuntimeBroker.exe             7164 Console                    4     13,880 K
+SecurityHealthSystray.exe     2460 Console                    4      8,676 K
+RtkAudUService64.exe          1068 Console                    4      2,372 K
+ProtonVPN.Client.exe         13560 Console                    4    211,884 K
+ProtonDrive.exe              13836 Console                    4     37,016 K
+ProtonVPNService.exe          8372 Services                   0     35,296 K
+WebViewHost.exe                696 Console                    4     19,020 K
+RuntimeBroker.exe            11968 Console                    4      2,352 K
+msedgewebview2.exe            4728 Console                    4     17,828 K
+msedgewebview2.exe            2572 Console                    4      5,408 K
+msedgewebview2.exe            7664 Console                    4      7,932 K
+msedgewebview2.exe            5292 Console                    4     11,288 K
+msedgewebview2.exe           11584 Console                    4      5,696 K
+msedgewebview2.exe            7572 Console                    4      6,196 K
+ShellExperienceHost.exe       1064 Console                    4     24,748 K
+RuntimeBroker.exe             6944 Console                    4     24,216 K
+svchost.exe                  10644 Console                    4      3,252 K
+UserOOBEBroker.exe             420 Console                    4      4,068 K
+svchost.exe                   9768 Console                    4      3,384 K
+SystemSettingsBroker.exe      9552 Console                    4     12,916 K
+TextInputHost.exe             4164 Console                    4     12,248 K
+ApplicationFrameHost.exe      6784 Console                    4     25,880 K
+dllhost.exe                  10996 Console                    4      8,808 K
+svchost.exe                   3092 Services                   0      3,676 K
+CompPkgSrv.exe               10660 Console                    4      3,928 K
+dllhost.exe                   1996 Console                    4     13,140 K
+RuntimeBroker.exe            14312 Console                    4     26,068 K
+svchost.exe                  15720 Console                    4     11,008 K
+wlanext.exe                  14332 Services                   0      6,456 K
+conhost.exe                  15960 Services                   0      5,840 K
+SearchApp.exe                 9628 Console                    4     59,496 K
+LockApp.exe                  10636 Console                    4     30,644 K
+RuntimeBroker.exe             7172 Console                    4     37,492 K
+svchost.exe                  20604 Console                    4     12,996 K
+taskhostw.exe                12672 Console                    4     16,336 K
+msedge.exe                   17836 Console                    4    166,736 K
+msedge.exe                    4224 Console                    4     10,508 K
+msedge.exe                    6224 Console                    4    113,820 K
+msedge.exe                   12964 Console                    4     45,584 K
+msedge.exe                    2304 Console                    4     21,300 K
+NisSrv.exe                   18144 Services                   0     11,892 K
+svchost.exe                  16784 Services                   0      5,668 K
+HPAudioAnalytics.exe         14672 Services                   0     11,960 K
+taskhostw.exe                13172 Console                    4      8,616 K
+Code.exe                      5460 Console                    4    102,936 K
+Code.exe                     20452 Console                    4     27,048 K
+Code.exe                     17496 Console                    4    121,200 K
+Code.exe                     21468 Console                    4     43,332 K
+Code.exe                     13588 Console                    4    222,396 K
+Code.exe                     11692 Console                    4     87,480 K
+Code.exe                     10128 Console                    4     99,524 K
+Code.exe                      1400 Console                    4     30,840 K
+chrome.exe                   15124 Console                    4    153,820 K
+chrome.exe                    2620 Console                    4      8,712 K
+chrome.exe                   10392 Console                    4     91,292 K
+chrome.exe                    2400 Console                    4     51,316 K
+chrome.exe                   16760 Console                    4     19,628 K
+chrome.exe                   15548 Console                    4     41,064 K
+svchost.exe                  19316 Services                   0      6,024 K
+chrome.exe                   15996 Console                    4     19,016 K
+chrome.exe                   15604 Console                    4     36,116 K
+chrome.exe                    4676 Console                    4    302,976 K
+Code.exe                      7412 Console                    4    263,500 K
+Code.exe                     15404 Console                    4     67,836 K
+Code.exe                      3312 Console                    4    115,876 K
+Code.exe                     20940 Console                    4     61,640 K
+conhost.exe                  13576 Console                    4      6,588 K
+powershell.exe               20636 Console                    4     56,480 K
+rust-analyzer.exe            19940 Console                    4  1,032,748 K
+conhost.exe                  10436 Console                    4      6,356 K
+rust-analyzer-proc-macro-     4572 Console                    4     18,964 K
+svchost.exe                  18744 Services                   0      7,740 K
+SystemSettings.exe            3864 Console                    4    239,028 K
+chrome.exe                   20860 Console                    4     25,740 K
+svchost.exe                  14220 Services                   0      7,296 K
+SearchProtocolHost.exe       12668 Console                    4      7,704 K
+vctip.exe                    18544 Console                    4     50,996 K
+smartscreen.exe              17908 Console                    4     23,808 K
+msedge.exe                   20136 Console                    4     20,924 K
+msedge.exe                   15092 Console                    4     44,840 K
+msedge.exe                   18640 Console                    4    149,336 K
+msedge.exe                    1600 Console                    4     28,172 K
+msedge.exe                   14636 Console                    4     32,416 K
+SearchFilterHost.exe         15432 Services                   0      7,512 K
+Code.exe                     18136 Console                    4    220,224 K
+Code.exe                      2500 Console                    4     79,956 K
+Code.exe                      4324 Console                    4    571,380 K
+conhost.exe                   3648 Console                    4      6,816 K
+powershell.exe                7308 Console                    4     88,216 K
+chrome.exe                   10768 Console                    4    156,100 K
+msedge.exe                   19256 Console                    4    144,292 K
+audiodg.exe                  18672 Services                   0     15,052 K
+svchost.exe                   2684 Services                   0      8,644 K
+WUDFHost.exe                 15540 Services                   0      9,428 K
+rustain.exe                   1120 Console                    4      9,388 K
+conhost.exe                  20588 Console                    4     16,712 K
+cmd.exe                      21384 Console                    4      5,036 K
+conhost.exe                   2256 Console                    4     11,640 K
+tasklist.exe                  4948 Console                    4     10,000 K
+WmiPrvSE.exe                 12796 Services                   0     10,180 K
+
+
+Command: dir
+Time: 1759211903 (Unix timestamp)
+Output:  Volume in drive E is CCCOMA_X64FRE_EN-US_DV9
+ Volume Serial Number is AAD7-E0A0
+
+ Directory of E:\
+
+19/09/2025  03:12 pm               128 autorun.inf
+19/09/2025  03:12 pm    <DIR>          boot
+19/09/2025  03:12 pm           413,738 bootmgr
+19/09/2025  03:12 pm         1,572,208 bootmgr.efi
+19/09/2025  03:12 pm    <DIR>          efi
+30/09/2025  10:56 am         2,738,176 rustain.exe
+19/09/2025  03:12 pm            74,184 setup.exe
+19/09/2025  03:25 pm    <DIR>          sources
+19/09/2025  03:26 pm    <DIR>          support
+               5 File(s)      4,798,434 bytes
+               4 Dir(s)   1,882,005,504 bytes free
+
+
+Command: ls
+Time: 1759211903 (Unix timestamp)
+Output: Command failed: 'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+
+Command: ipconfig
+Time: 1759211903 (Unix timestamp)
+Output: 
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet 4:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::498c:c441:c40e:123c%4
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Local Area Connection* 13:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 14:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter WiFi 3:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::6475:850b:fc32:67f4%22
+   IPv4 Address. . . . . . . . . . . : 192.168.214.197
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.214.120
+
+
+Command: netstat
+Time: 1759211903 (Unix timestamp)
+Output: 
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    127.0.0.1:49670        DESKTOP-2O2C6JJ:49671  ESTABLISHED
+  TCP    127.0.0.1:49671        DESKTOP-2O2C6JJ:49670  ESTABLISHED
+  TCP    192.168.214.197:54432  4.213.25.242:https     ESTABLISHED
+  TCP    192.168.214.197:54438  4.213.25.242:https     ESTABLISHED
+  TCP    192.168.214.197:54554  wl-in-f188:5228        ESTABLISHED
+  TCP    192.168.214.197:54746  a2-16-158-56:https     CLOSE_WAIT
+  TCP    192.168.214.197:54855  lb-140-82-112-26-iad:https  ESTABLISHED
+  TCP    192.168.214.197:54870  4.213.133.109:https    TIME_WAIT
+  TCP    192.168.214.197:54876  150.171.28.11:https    TIME_WAIT
+  TCP    192.168.214.197:54878  104.18.29.234:https    TIME_WAIT
+  TCP    192.168.214.197:54879  51:https               TIME_WAIT
+  TCP    192.168.214.197:54883  104.18.29.234:https    TIME_WAIT
+  TCP    192.168.214.197:54884  51:https               TIME_WAIT
+  TCP    192.168.214.197:54887  13.107.246.59:https    TIME_WAIT
+  TCP    192.168.214.197:54891  13.107.5.93:https      TIME_WAIT
+  TCP    192.168.214.197:54892  13.107.213.62:https    TIME_WAIT
+  TCP    192.168.214.197:54893  52.168.117.169:https   TIME_WAIT
+  TCP    192.168.214.197:54895  150.171.73.16:https    TIME_WAIT
+  TCP    192.168.214.197:54898  13.107.5.93:https      TIME_WAIT
+  TCP    192.168.214.197:54913  13.107.246.59:https    TIME_WAIT
+  TCP    192.168.214.197:54920  lb-140-82-112-22-iad:https  ESTABLISHED
+  TCP    192.168.214.197:54924  13.107.5.93:https      TIME_WAIT
+  TCP    192.168.214.197:54930  51:https               TIME_WAIT
+  TCP    192.168.214.197:54932  104.18.29.234:https    TIME_WAIT
+  TCP    192.168.214.197:54935  52.168.117.169:https   TIME_WAIT
+  TCP    192.168.214.197:54939  104.18.29.234:https    TIME_WAIT
+  TCP    192.168.214.197:54942  lb-140-82-113-22-iad:https  ESTABLISHED
+  TCP    192.168.214.197:54943  52.168.117.169:https   TIME_WAIT
+  TCP    192.168.214.197:54944  51:https               TIME_WAIT
+  TCP    192.168.214.197:54950  server-18-64-141-39:https  TIME_WAIT
+  TCP    192.168.214.197:54952  51:https               TIME_WAIT
+  TCP    192.168.214.197:54954  104.18.29.234:https    TIME_WAIT
+  TCP    192.168.214.197:54957  lcmcta-ah-in-f14:https  TIME_WAIT
+
+
