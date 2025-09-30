@@ -1,34 +1,23 @@
-Command: netstat
-Time: 2025-09-30 00:57:43 -07:00
+Command: ipconfig
+Time: 2025-09-30 00:59:09 -07:00
 Output: 
-Active Connections
+Windows IP Configuration
 
-  Proto  Local Address          Foreign Address        State
-  TCP    10.12.0.107:56908      4.213.25.241:https     ESTABLISHED
-  TCP    10.12.0.107:56932      wk-in-f188:5228        ESTABLISHED
-  TCP    10.12.0.107:56942      4.213.25.241:https     ESTABLISHED
-  TCP    10.12.0.107:57869      104.18.29.234:https    ESTABLISHED
-  TCP    10.12.0.107:57871      172.64.148.235:https   ESTABLISHED
-  TCP    10.12.0.107:57896      25:https               ESTABLISHED
-  TCP    10.12.0.107:57991      lb-140-82-113-21-iad:https  ESTABLISHED
-  TCP    10.12.0.107:57992      20.189.173.28:https    ESTABLISHED
-  TCP    10.12.0.107:58019      72.145.35.101:https    TIME_WAIT
-  TCP    10.12.0.107:58020      a2-19-201-185:https    TIME_WAIT
-  TCP    10.12.0.107:58026      cdn-185-199-111-154:https  ESTABLISHED
-  TCP    10.12.0.107:58027      cdn-185-199-111-133:https  ESTABLISHED
-  TCP    10.12.0.107:58032      whatsapp-cdn-shv-02-mct1:https  ESTABLISHED
-  TCP    10.12.0.107:58067      lb-140-82-112-25-iad:https  ESTABLISHED
-  TCP    10.12.0.107:58068      216.239.38.223:https   ESTABLISHED
-  TCP    10.12.0.107:58073      46.30.188.13:5170      ESTABLISHED
-  TCP    10.12.0.107:58080      46.30.188.13:5170      ESTABLISHED
-  TCP    10.12.0.107:58082      72.145.35.113:https    ESTABLISHED
-  TCP    10.12.0.107:58083      a92-123-45-187:https   ESTABLISHED
-  TCP    10.12.0.107:58084      72.145.35.109:https    ESTABLISHED
-  TCP    10.12.0.107:58085      ec2-18-195-202-253:https  ESTABLISHED
-  TCP    10.12.0.107:58091      46.30.188.13:5170      ESTABLISHED
-  TCP    10.12.0.107:58092      46.30.188.13:5170      ESTABLISHED
-  TCP    10.12.0.107:58093      20.207.73.82:https     ESTABLISHED
-  TCP    10.12.0.107:58094      20.207.73.85:https     ESTABLISHED
-  TCP    10.12.0.107:58099      20.207.73.85:https     FIN_WAIT_1
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2dc6:4228:4c4d:b355%7
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::a218:1e8f:d4ae:5b98%13
+   IPv4 Address. . . . . . . . . . . : 10.12.0.107
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 10.12.0.1
 
 
