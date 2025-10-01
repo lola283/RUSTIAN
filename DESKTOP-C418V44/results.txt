@@ -1,32 +1,5 @@
-Command: netstat
-Time: 2025-09-30 23:59:32 -07:00
-Output: 
-Active Connections
-
-  Proto  Local Address          Foreign Address        State
-  TCP    10.12.0.107:49687      4.213.25.241:https     ESTABLISHED
-  TCP    10.12.0.107:49853      wm-in-f188:5228        ESTABLISHED
-  TCP    10.12.0.107:51549      ec2-18-97-36-71:https  ESTABLISHED
-  TCP    10.12.0.107:51686      162.247.243.29:https   ESTABLISHED
-  TCP    10.12.0.107:51723      104.18.28.234:https    ESTABLISHED
-  TCP    10.12.0.107:51726      51:https               ESTABLISHED
-  TCP    10.12.0.107:51829      104.18.39.21:https     ESTABLISHED
-  TCP    10.12.0.107:51878      163.181.160.143:https  ESTABLISHED
-  TCP    10.12.0.107:51879      lb-140-82-113-22-iad:https  ESTABLISHED
-  TCP    10.12.0.107:51899      cdn-185-199-108-133:https  ESTABLISHED
-  TCP    10.12.0.107:51907      104.18.32.47:https     TIME_WAIT
-  TCP    10.12.0.107:51908      172.64.148.235:https   ESTABLISHED
-  TCP    10.12.0.107:51909      a2-16-158-40:https     CLOSE_WAIT
-  TCP    10.12.0.107:51926      13.107.246.62:https    CLOSE_WAIT
-  TCP    10.12.0.107:51952      13.78.111.199:https    TIME_WAIT
-  TCP    10.12.0.107:51969      162.247.243.29:https   ESTABLISHED
-  TCP    10.12.0.107:51992      51.116.253.168:https   ESTABLISHED
-  TCP    10.12.0.107:51994      cdn-185-199-109-154:https  ESTABLISHED
-  TCP    10.12.0.107:51996      cdn-185-199-109-154:https  ESTABLISHED
-  TCP    10.12.0.107:51997      20.207.73.85:https     ESTABLISHED
-  TCP    10.12.0.107:51998      lb-140-82-114-25-iad:https  ESTABLISHED
-  TCP    10.12.0.107:52000      20.198.167.116:https   ESTABLISHED
-  TCP    10.12.0.107:52005      163.181.82.170:https   TIME_WAIT
-  TCP    10.12.0.107:52006      20.207.73.85:https     FIN_WAIT_1
+Command: whoami
+Time: 2025-10-01 00:00:18 -07:00
+Output: desktop-c418v44\pc
 
 
