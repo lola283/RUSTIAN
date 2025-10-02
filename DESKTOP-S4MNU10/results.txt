@@ -1,16 +1,70 @@
-Command: ipconfig
-Time: 2025-10-02 04:27:01 -07:00
-Result: Windows IP Configuration
+Command: netstat
+Time: 2025-10-02 04:28:27 -07:00
+Result: Active Connections
 
-
-Ethernet adapter Ethernet:
-
-   Connection-specific DNS Suffix  . : 
-   IPv6 Address. . . . . . . . . . . : fd17:625c:f037:2:3567:66a1:ee82:de52
-   Temporary IPv6 Address. . . . . . : fd17:625c:f037:2:dd61:ef60:f30c:3eec
-   Link-local IPv6 Address . . . . . : fe80::b15:8ec4:9911:adde%11
-   IPv4 Address. . . . . . . . . . . : 10.0.2.15
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : fe80::2%11
-                                       10.0.2.2
+  Proto  Local Address          Foreign Address        State
+  TCP    10.0.2.15:49670        52.123.129.14:https    TIME_WAIT
+  TCP    10.0.2.15:49671        a92-123-159-240:http   ESTABLISHED
+  TCP    10.0.2.15:49673        4.213.25.241:https     ESTABLISHED
+  TCP    10.0.2.15:49675        51.116.253.168:https   ESTABLISHED
+  TCP    10.0.2.15:49676        a23-44-2-9:https       TIME_WAIT
+  TCP    10.0.2.15:49677        a23-206-246-162:http   TIME_WAIT
+  TCP    10.0.2.15:49679        a23-44-2-9:https       TIME_WAIT
+  TCP    10.0.2.15:49687        a2-16-158-74:https     ESTABLISHED
+  TCP    10.0.2.15:49691        a92-123-159-240:http   ESTABLISHED
+  TCP    10.0.2.15:49692        a23-202-33-123:https   ESTABLISHED
+  TCP    10.0.2.15:49693        a23-202-33-123:https   ESTABLISHED
+  TCP    10.0.2.15:49696        a92-123-159-240:http   ESTABLISHED
+  TCP    10.0.2.15:49698        a184-31-5-188:https    ESTABLISHED
+  TCP    10.0.2.15:49699        a184-25-248-128:https  ESTABLISHED
+  TCP    10.0.2.15:49701        a184-31-5-188:https    ESTABLISHED
+  TCP    10.0.2.15:49704        20.247.184.197:https   TIME_WAIT
+  TCP    10.0.2.15:49706        72.154.7.111:https     ESTABLISHED
+  TCP    10.0.2.15:49708        134.33.185.98:https    TIME_WAIT
+  TCP    10.0.2.15:49710        40.79.150.122:https    TIME_WAIT
+  TCP    10.0.2.15:49711        150.171.22.17:https    TIME_WAIT
+  TCP    10.0.2.15:49713        20.190.145.140:https   TIME_WAIT
+  TCP    10.0.2.15:49715        a92-123-159-240:http   ESTABLISHED
+  TCP    10.0.2.15:49718        57.155.141.119:https   ESTABLISHED
+  TCP    10.0.2.15:49722        ec2-63-177-95-88:https  ESTABLISHED
+  TCP    10.0.2.15:49724        40.119.213.159:https   ESTABLISHED
+  TCP    10.0.2.15:49726        151.101.142.172:http   TIME_WAIT
+  TCP    10.0.2.15:49732        150.171.22.17:https    ESTABLISHED
+  TCP    10.0.2.15:49733        150.171.22.17:https    ESTABLISHED
+  TCP    10.0.2.15:49735        52.168.117.175:https   ESTABLISHED
+  TCP    10.0.2.15:49737        13.107.246.59:https    ESTABLISHED
+  TCP    10.0.2.15:49738        ntl-50-113-33:https    ESTABLISHED
+  TCP    10.0.2.15:49739        ntl-50-113-33:https    ESTABLISHED
+  TCP    10.0.2.15:49742        a184-25-53-217:https   ESTABLISHED
+  TCP    10.0.2.15:49743        20.190.145.140:https   ESTABLISHED
+  TCP    10.0.2.15:49744        a184-25-54-48:https    ESTABLISHED
+  TCP    10.0.2.15:49746        a184-31-5-188:https    ESTABLISHED
+  TCP    10.0.2.15:49747        13.85.23.206:https     TIME_WAIT
+  TCP    10.0.2.15:49748        72.154.7.96:https      ESTABLISHED
+  TCP    10.0.2.15:49749        a184-25-54-48:https    ESTABLISHED
+  TCP    10.0.2.15:49752        a23-44-2-9:https       TIME_WAIT
+  TCP    10.0.2.15:49753        130.213.27.179:https   TIME_WAIT
+  TCP    10.0.2.15:49755        a184-25-248-128:https  ESTABLISHED
+  TCP    10.0.2.15:49756        4.213.25.241:https     ESTABLISHED
+  TCP    10.0.2.15:49757        130.213.27.179:https   TIME_WAIT
+  TCP    10.0.2.15:49759        a184-25-248-128:https  ESTABLISHED
+  TCP    10.0.2.15:49760        undefined:http         ESTABLISHED
+  TCP    10.0.2.15:49761        undefined:http         ESTABLISHED
+  TCP    10.0.2.15:49762        20.189.173.17:https    TIME_WAIT
+  TCP    10.0.2.15:49764        a184-25-248-128:https  ESTABLISHED
+  TCP    10.0.2.15:49765        undefined:http         ESTABLISHED
+  TCP    10.0.2.15:49766        a184-25-248-128:https  ESTABLISHED
+  TCP    10.0.2.15:49767        undefined:http         ESTABLISHED
+  TCP    10.0.2.15:49769        72.154.7.98:https      ESTABLISHED
+  TCP    10.0.2.15:49770        undefined:http         ESTABLISHED
+  TCP    10.0.2.15:49771        undefined:http         ESTABLISHED
+  TCP    10.0.2.15:49773        13.85.23.206:https     TIME_WAIT
+  TCP    10.0.2.15:49775        a92-123-45-190:https   ESTABLISHED
+  TCP    10.0.2.15:49776        a23-44-2-9:https       TIME_WAIT
+  TCP    10.0.2.15:49779        52.123.129.14:https    ESTABLISHED
+  TCP    10.0.2.15:49783        150.171.28.11:https    ESTABLISHED
+  TCP    10.0.2.15:49784        150.171.28.11:https    ESTABLISHED
+  TCP    10.0.2.15:49785        i240:http              ESTABLISHED
+  TCP    10.0.2.15:49788        20.207.73.85:https     FIN_WAIT_2
+  TCP    [::1]:49697            DESKTOP-S4MNU10:wsd    TIME_WAIT
 
