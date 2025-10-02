@@ -1,4 +1,4 @@
 Command: shutdown -s
-Time: 2025-10-02 15:58:56 +05:00
-Result: 
+Time: 2025-10-02 15:58:58 +05:00
+Result: Command failed: A system shutdown has already been scheduled.(1190)
 
