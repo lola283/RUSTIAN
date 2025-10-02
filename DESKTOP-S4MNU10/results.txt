@@ -1,5 +1,5 @@
 Command: ipconfig
-Time: 2025-10-02 04:23:42 -07:00
+Time: 2025-10-02 04:27:01 -07:00
 Result: Windows IP Configuration
 
 
@@ -7,7 +7,7 @@ Ethernet adapter Ethernet:
 
    Connection-specific DNS Suffix  . : 
    IPv6 Address. . . . . . . . . . . : fd17:625c:f037:2:3567:66a1:ee82:de52
-   Temporary IPv6 Address. . . . . . : fd17:625c:f037:2:4924:8617:3400:d6cd
+   Temporary IPv6 Address. . . . . . : fd17:625c:f037:2:dd61:ef60:f30c:3eec
    Link-local IPv6 Address . . . . . : fe80::b15:8ec4:9911:adde%11
    IPv4 Address. . . . . . . . . . . : 10.0.2.15
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
