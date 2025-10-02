@@ -1,7 +1,6 @@
 Command: ipconfig
-Time: 2025-10-01 04:11:55 -07:00
-Output: 
-Windows IP Configuration
+Time: 2025-10-02 05:49:53 -07:00
+Result: Windows IP Configuration
 
 
 Ethernet adapter Ethernet:
@@ -9,7 +8,20 @@ Ethernet adapter Ethernet:
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
 
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::9d4b:7578:9825:931c%12
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
 Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 10:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
@@ -25,6 +37,5 @@ Wireless LAN adapter Wi-Fi:
 Ethernet adapter Bluetooth Network Connection:
 
    Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
+   Connection-specific DNS Suffix  . :
 
