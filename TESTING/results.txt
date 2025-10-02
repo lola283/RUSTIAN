@@ -1,18 +1,71 @@
-Command: ipconfig
-Time: 2025-10-01 23:40:18 -07:00
+Command: tasklist
+Time: 2025-10-01 23:40:36 -07:00
 Output: 
-Windows IP Configuration
-
-
-Ethernet adapter Ethernet:
-
-   Connection-specific DNS Suffix  . : 
-   IPv6 Address. . . . . . . . . . . : fd17:625c:f037:2:ca14:c86e:2e35:7f7
-   Temporary IPv6 Address. . . . . . : fd17:625c:f037:2:b529:197a:7f40:2441
-   Link-local IPv6 Address . . . . . : fe80::28cc:165a:1c4a:ca84%12
-   IPv4 Address. . . . . . . . . . . : 10.0.2.15
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : fe80::2%12
-                                       10.0.2.2
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0        148 K
+Registry                        72 Services                   0     72,384 K
+smss.exe                       328 Services                   0      1,260 K
+csrss.exe                      416 Services                   0      5,088 K
+wininit.exe                    484 Services                   0      7,224 K
+csrss.exe                      492 Console                    1      5,360 K
+winlogon.exe                   552 Console                    1     12,016 K
+services.exe                   576 Services                   0      7,668 K
+lsass.exe                      584 Services                   0     16,908 K
+fontdrvhost.exe                704 Console                    1      3,692 K
+fontdrvhost.exe                712 Services                   0      3,320 K
+svchost.exe                    720 Services                   0     30,668 K
+svchost.exe                    804 Services                   0     11,420 K
+dwm.exe                        888 Console                    1     45,164 K
+svchost.exe                    976 Services                   0     15,640 K
+svchost.exe                    992 Services                   0     24,088 K
+svchost.exe                   1020 Services                   0     33,548 K
+svchost.exe                    572 Services                   0     32,556 K
+svchost.exe                   1040 Services                   0     60,116 K
+svchost.exe                   1064 Services                   0     11,776 K
+svchost.exe                   1112 Services                   0     16,512 K
+VBoxService.exe               1228 Services                   0      6,840 K
+Memory Compression            1312 Services                   0     13,160 K
+svchost.exe                   1464 Services                   0     12,044 K
+svchost.exe                   1524 Services                   0     10,796 K
+svchost.exe                   1532 Services                   0      9,956 K
+svchost.exe                   1600 Services                   0     17,352 K
+spoolsv.exe                   1712 Services                   0     15,436 K
+svchost.exe                   1740 Services                   0     18,284 K
+svchost.exe                   1888 Services                   0     12,636 K
+svchost.exe                   1924 Services                   0     29,120 K
+MsMpEng.exe                   2028 Services                   0    118,772 K
+svchost.exe                   1540 Services                   0     13,320 K
+NisSrv.exe                    2344 Services                   0      9,468 K
+svchost.exe                   2540 Services                   0      8,784 K
+sihost.exe                    2640 Console                    1     25,868 K
+svchost.exe                   2656 Console                    1     42,108 K
+MicrosoftEdgeUpdate.exe       2716 Services                   0      1,204 K
+taskhostw.exe                 2724 Console                    1     14,176 K
+ctfmon.exe                    2880 Console                    1     15,056 K
+explorer.exe                  3036 Console                    1    101,740 K
+svchost.exe                   2408 Console                    1     17,560 K
+StartMenuExperienceHost.e     3416 Console                    1     60,804 K
+RuntimeBroker.exe             3476 Console                    1     26,256 K
+SearchApp.exe                 3652 Console                    1    157,308 K
+RuntimeBroker.exe             3800 Console                    1     21,268 K
+SearchIndexer.exe             3840 Services                   0     16,948 K
+WmiPrvSE.exe                  2516 Services                   0     11,516 K
+smartscreen.exe               3864 Console                    1     23,308 K
+SecurityHealthSystray.exe     1452 Console                    1      9,152 K
+SecurityHealthService.exe     2700 Services                   0     13,800 K
+VBoxTray.exe                  2800 Console                    1     10,972 K
+OneDrive.exe                  4156 Console                    1     90,224 K
+msedge.exe                    4264 Console                    1     97,484 K
+msedge.exe                    4296 Console                    1      7,496 K
+msedge.exe                    4468 Console                    1     34,184 K
+msedge.exe                    4516 Console                    1     23,956 K
+msedge.exe                    4540 Console                    1     17,344 K
+rustain.exe                   4840 Console                    1      7,576 K
+RuntimeBroker.exe             5036 Console                    1      8,232 K
+cmd.exe                       3764 Console                    1      3,900 K
+conhost.exe                   4828 Console                    1     10,348 K
+tasklist.exe                  4960 Console                    1      8,816 K
 
 
