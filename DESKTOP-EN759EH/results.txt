@@ -1,28 +1,4 @@
-Command: ipconfig
-Time: 2025-10-02 15:57:45 +05:00
-Result: Windows IP Configuration
-
-
-Ethernet adapter Ethernet0:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : localdomain
-
-Wireless LAN adapter Local Area Connection* 9:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Local Area Connection* 10:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Wi-Fi:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::5a15:746f:d309:7f39%8
-   IPv4 Address. . . . . . . . . . . : 10.12.0.106
-   Subnet Mask . . . . . . . . . . . : 255.255.0.0
-   Default Gateway . . . . . . . . . : 10.12.0.1
+Command: shutdown -s
+Time: 2025-10-02 15:58:56 +05:00
+Result: 
 
