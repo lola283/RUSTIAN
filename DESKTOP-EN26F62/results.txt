@@ -1,41 +1,4 @@
-Command: ipconfig
-Time: 2025-10-02 23:19:03 -07:00
-Result: Windows IP Configuration
-
-
-Ethernet adapter Ethernet:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Ethernet adapter Ethernet 2:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::9d4b:7578:9825:931c%12
-   IPv4 Address. . . . . . . . . . . : 192.168.56.1
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 
-
-Wireless LAN adapter Local Area Connection* 1:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Local Area Connection* 10:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Wi-Fi:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::f235:6183:fd6f:a1f9%5
-   IPv4 Address. . . . . . . . . . . : 10.12.0.125
-   Subnet Mask . . . . . . . . . . . : 255.255.0.0
-   Default Gateway . . . . . . . . . : 10.12.0.1
-
-Ethernet adapter Bluetooth Network Connection:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . :
+Command: whoami
+Time: 2025-10-02 23:19:55 -07:00
+Result: desktop-en26f62\lola3
 
