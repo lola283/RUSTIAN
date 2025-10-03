@@ -1,12 +1,4 @@
-Command: netstat
-Time: 2025-10-03 02:22:46 -07:00
-Result: Active Connections
-
-  Proto  Local Address          Foreign Address        State
-  TCP    10.0.2.15:49671        4.213.25.240:https     ESTABLISHED
-  TCP    10.0.2.15:49748        10.12.0.125:ms-do      ESTABLISHED
-  TCP    10.0.2.15:49753        4.213.25.240:https     ESTABLISHED
-  TCP    10.0.2.15:49786        a2-16-158-169:https    ESTABLISHED
-  TCP    10.0.2.15:49798        ec2-18-195-205-47:https  ESTABLISHED
-  TCP    10.0.2.15:49800        20.207.73.85:https     FIN_WAIT_2
+Command: start 
+Time: 2025-10-03 02:24:10 -07:00
+Result: 
 
