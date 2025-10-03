@@ -1,36 +1,12 @@
 Command: netstat
-Time: 2025-10-03 00:34:29 -07:00
+Time: 2025-10-03 00:37:55 -07:00
 Result: Active Connections
 
   Proto  Local Address          Foreign Address        State
   TCP    10.0.2.15:49673        4.213.25.240:https     ESTABLISHED
   TCP    10.0.2.15:49728        4.213.25.242:https     ESTABLISHED
   TCP    10.0.2.15:49772        a23-59-80-179:https    CLOSE_WAIT
-  TCP    10.0.2.15:49917        ec2-18-195-202-253:https  ESTABLISHED
-  TCP    10.0.2.15:49921        a92-123-45-190:https   ESTABLISHED
-  TCP    10.0.2.15:49950        undefined:http         TIME_WAIT
-  TCP    10.0.2.15:49959        undefined:http         TIME_WAIT
-  TCP    10.0.2.15:49962        ec2-63-177-95-88:https  ESTABLISHED
-  TCP    10.0.2.15:49971        undefined:http         TIME_WAIT
-  TCP    10.0.2.15:49972        undefined:http         TIME_WAIT
-  TCP    10.0.2.15:49973        72.154.7.104:https     TIME_WAIT
-  TCP    10.0.2.15:49985        72.154.7.104:https     TIME_WAIT
-  TCP    10.0.2.15:50003        a92-123-45-190:https   ESTABLISHED
-  TCP    10.0.2.15:50005        72.154.7.113:https     TIME_WAIT
-  TCP    10.0.2.15:50006        a92-123-45-190:https   ESTABLISHED
-  TCP    10.0.2.15:50008        20.189.173.6:https     TIME_WAIT
-  TCP    10.0.2.15:50010        162.159.142.9:http     TIME_WAIT
-  TCP    10.0.2.15:50012        20.190.146.37:https    ESTABLISHED
-  TCP    10.0.2.15:50014        135.234.160.245:https  TIME_WAIT
-  TCP    10.0.2.15:50015        a104-83-141-68:http    ESTABLISHED
-  TCP    10.0.2.15:50016        150.171.28.12:https    ESTABLISHED
-  TCP    10.0.2.15:50017        150.171.28.12:https    ESTABLISHED
-  TCP    10.0.2.15:50018        a23-59-80-170:https    ESTABLISHED
-  TCP    10.0.2.15:50019        a23-59-80-170:https    ESTABLISHED
-  TCP    10.0.2.15:50020        a2-16-158-91:https     ESTABLISHED
-  TCP    10.0.2.15:50022        20.210.166.59:https    ESTABLISHED
-  TCP    10.0.2.15:50023        a2-16-158-83:https     ESTABLISHED
-  TCP    10.0.2.15:50029        a92-123-45-126:https   ESTABLISHED
-  TCP    10.0.2.15:50031        172.178.240.161:https  TIME_WAIT
-  TCP    10.0.2.15:50036        20.207.73.85:https     FIN_WAIT_2
+  TCP    10.0.2.15:50058        a2-16-158-91:https     ESTABLISHED
+  TCP    10.0.2.15:50062        ec2-63-177-95-88:https  ESTABLISHED
+  TCP    10.0.2.15:50067        20.207.73.85:https     FIN_WAIT_2
 
